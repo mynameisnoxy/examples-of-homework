@@ -83,4 +83,8 @@ select id, name, created_on from students
 order by created_on;
 --32. Вывести id пользователя, имя, дату создания пользователя. Отсортировать по порядку убывания даты добавления пользоватлеля.
 select id, name, created_on from students 
+<<<<<<< HEAD
 order by created_on DESC.
+=======
+order by created_on desc.
+>>>>>>> bfba90e66663947e615a859f14a675f1fb78b269
